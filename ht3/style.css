@@ -5,10 +5,10 @@ body{
 
 .black_parent{
     width: 1150px;
-    height: 646px;
     background-color: black;
     padding: 1px 5px 5px 5px;
     box-sizing: border-box;
+    overflow: auto;
 }
 
 .orange1{
