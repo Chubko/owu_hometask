@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.black_parent{
+    width: 1150px;
+    height: 646px;
+    background-color: black;
+    padding: 1px 5px 5px 5px;
+    box-sizing: border-box;
+}
+
+.orange1{
+    width: 1140px;
+    height: 105px;
+    background-color: orange;
+    clear: both;
+}
+
+.red{
+    width: 280px;
+    height: 415px;
+    background-color: red;
+    float: left;
+}
+
+.green{
+    width: 340px;
+    height: 415px;
+    background-color: green;
+    float: left;
+}
+
+.blue{
+    width: 330px;
+    height: 415px;
+    background-color: blue;
+    float: left;
+}
+
+.black{
+    width: 190px;
+    height: 415px;
+    background-color: black;
+    float: left;
+}
+
+.orange2{
+    width: 1140px;
+    height: 120px;
+    background-color: orange;
+    float: left;
+    clear: both;
+}
